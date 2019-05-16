@@ -2,7 +2,7 @@
 
 ## 计算机
 
-- 考研
+- [考研](https://github.com/MaiYunfei2000/i-love-study/issues/16)
 - 装机 (Mac)
 - 技术
   - 写作
